@@ -25,6 +25,12 @@
 
 ---
 
+## 🎥 Project Demo
+
+[![Ammachi AI Demo](https://img.youtube.com/vi/itm7bzXC7Xw/0.jpg)](https://youtu.be/itm7bzXC7Xw)
+
+---
+
 ## Problem Statement
 Traditional farming in Kerala often lacks precision and real-time insights. Farmers struggle with:
 - Inefficient water usage and irrigation scheduling
