@@ -27,7 +27,7 @@
 
 ## 🎥 Project Demo
 
-[![Ammachi AI Demo](https://img.youtube.com/vi/itm7bzXC7Xw/0.jpg)](https://youtu.be/itm7bzXC7Xw)
+[![Ammachi AI Demo](https://img.youtube.com/vi/itm7bzXC7Xw/0.jpg)](https://www.youtube.com/watch?v=TsDCGT7klWY&t=2s)
 
 ---
 
