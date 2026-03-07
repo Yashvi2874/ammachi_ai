@@ -16,7 +16,7 @@
   </a>
 </p>
 
-  <img align="center" alt="Ammachi AI Screenshot" src="https://github.com/user-attachments/assets/85033329-6ff0-40f2-85ee-361aa0cb7058" />
+  [<img align="center" alt="Ammachi AI Screenshot" src="https://github.com/user-attachments/assets/85033329-6ff0-40f2-85ee-361aa0cb7058" />](https://youtu.be/TsDCGT7klWY)
 
 ---
 
